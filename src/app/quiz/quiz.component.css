@@ -1,0 +1,55 @@
+.header{
+  text-align: center;
+  margin: 10px;
+  border-radius: 10px;
+  padding: 10px;
+  background-color: #3B42BF;
+  color: white;
+}
+
+
+.p-5{
+  /*background-color: #6273D9;*/
+  background: linear-gradient(to bottom right, #6273D9, #7790D9, #6273D9);
+  border-radius: 10px;
+}
+
+.list-group-item{
+  border-radius: 10px;
+  background-color: #3B42BF;
+  color: white;
+  /*background: linear-gradient(to right, #0455BF, #04ADBF);*/
+}
+
+label{
+  margin: 2px;
+}
+
+input{
+  accent-color: black;
+}
+
+h3{
+  color: black;
+}
+
+.btn-block{
+  background-color: #3B42BF;
+  border-color: white;
+}
+
+.answer{
+  background-color: #3B42BF;
+  width: 625px;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 10px;
+  color: white;
+  text-align: center;
+}
+
+.text-center{
+  font-weight: bold;
+}
+
+
